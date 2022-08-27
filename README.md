@@ -1,1 +1,1 @@
-# visualizaci-n_exploratoria
+# visualizacion_exploratoria
